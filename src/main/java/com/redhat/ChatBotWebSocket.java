@@ -16,7 +16,7 @@ public class ChatBotWebSocket {
 
     @OnOpen
     public String onOpen() {
-        return "Welcome! How can I help you today?";
+        return "Welcome to the IBM TechXchange 2024 Chatbot powered by OpenShift AI! How can I help you today?";
     }
 
     @OnTextMessage
