@@ -1,0 +1,68 @@
+Ask Me Anything about Red Hat Trusted Software Supply Chain [3830]
+
+This is a follow-up to the talk in session 3527, "Red Hat Trusted Software Supply Chain in Action." Bring your questions for Natale.
+Activity Type: Ask me Anything
+Session Topic: Developer
+Industry: Cross Industry
+Technical Level: Introductory Level
+Natale Vinto, Director of Developer Advocacy, Red Hat
+
+Thursday, Oct 24
+11:30 AM - 12:15 PM PDT
+Sandbox, Red Hat
+Ask Me Anything about the Red Hat Internal Development Platform [3829]
+
+This is a follow-up to Session, 3525, the internal developer platform and golden paths: Scaffolding for cloud-native development. Find out what you need to know....
+Activity Type: Ask me Anything
+Session Topic: AI, Developer
+Industry: Cross Industry
+Technical Level: Introductory Level
+Natale Vinto, Director of Developer Advocacy, Red Hat
+
+Wednesday, Oct 23
+4:30 PM - 5:15 PM PDT
+Sandbox, Red Hat
+Red Hat Trusted Software Supply Chain in Action [3527]
+
+More than 2/3 of application code is inherited from open source dependencies. It’s important to provide verified and attested code with provenance checks in the whole software development life cycle. Join this session where developers can learn and understand how to use software bill of materials (SBOM) and Vulnerability Exploitability eXchange (VEX) as part of the software supply chain for cloud-native applications. Sign commits, images, and pipelines to create a chain of trust for your open source components and transitive dependencies.
+
+Activity Type: Technology Breakout
+Session Topic: Open Source, Developer, Red Hat
+Industry: Cross Industry
+Technical Level: Intermediate Level
+Natale Vinto, Director of Developer Advocacy, Red Hat
+
+Thursday, Oct 24
+10:00 AM - 11:00 AM PDT
+North, South Pacific Ballroom J, Lower Level
+The internal developer platform and golden paths: Scaffolding for cloud-native development [3525]
+
+In recent years, modern application development has extended far beyond developers merely dealing with the source code of an application. Many complex aspects and critical tasks related to the build, test, and deployment cycles have progressively shifted toward development teams. However, larger organizations often suffer noticeable productivity losses and frequently face the challenge of regaining control over the resulting 'wild growth’. In this session, Natale Vinto explains the advantages of implementing an internal developer platform (IDP) and how developer teams can benefit from consuming 'golden paths' for their daily work. The IDP is built by a platform team to enable developer self-service and ultimately promote a great developer experience. It consists of many different technologies and tools, integrated in a way that reduces the cognitive load on developers without abstracting away context and underlying technologies.At the end of the session, you'll have a clearer view of how 'golden paths' provide a robust foundation for cloud-native development with out-of-the-box support for immediate guidance to components, resources, and relevant documentation. Your team can swiftly deploy the right tools and components to start work promptly, and we'll showcase real-world use cases where 'golden paths' are put into action.
+
+Activity Type: Technology Breakout
+Tech Tracks: Cloud
+Session Topic: Hybrid, As A Service, Java Technologies, Open Source, Developer, Red Hat
+Industry: Cross Industry
+Technical Level: Intermediate Level
+Natale Vinto, Director of Developer Advocacy, Red Hat
+
+Shane O'Rourke, Program Director - IBM Application Runtimes Software, IBM
+
+Wednesday, Oct 23
+1:30 PM - 2:30 PM PDT
+North, South Pacific Ballroom J, Lower Level
+Red Hat Roadmap - Developer Experience, Platform Engineering and AI powered Apps [3530]
+
+An open source environment enables microservices, containers, Kubernetes and AI to be deployed to optimize agility and speed at scale. The challenge can be staying ahead of the technology curve and positioning your enterprise for continued success. At Red Hat, hybrid cloud is the foundation of everything we do, leveraging open source in a multi-cloud environment to kickstart innovation. The advent of Generative AI has acted as an accelerant to business transformation increasing efficiency and productivity. Join the Developer Advocates team who will share with a series of live demo innovations available today with OpenShift AI, OpenShift and Developer Hub that will accelerate development cycles and optimize your releasing performance.
+Activity Type: Technology Breakout
+Tech Tracks: Cloud
+Session Topic: AI, Application and Data, Java Technologies, IBM Hybrid Cloud , Open Source, Developer, Red Hat
+Industry: Cross Industry
+Technical Level: Introductory Level
+Natale Vinto, Director of Developer Advocacy, Red Hat
+
+Ignacio Riesgo, Senior Director Developer Marketing & Strategy, Red Hat
+
+Tuesday, Oct 22
+1:30 PM - 2:30 PM PDT
+North, South Pacific Ballroom EF, Lower Level

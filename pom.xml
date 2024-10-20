@@ -74,6 +74,16 @@
 			<artifactId>rest-assured</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>dev.langchain4j</groupId>
+			<artifactId>langchain4j-embeddings-bge-small-en-q</artifactId>
+			<version>0.35.0</version>
+		</dependency>
+		<dependency>
+			<groupId>io.quarkiverse.langchain4j</groupId>
+			<artifactId>quarkus-langchain4j-pgvector</artifactId>
+			<version>${quarkus-langchain4j.version}</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<plugins>
