@@ -7,7 +7,7 @@ import io.smallrye.mutiny.Multi;
 import jakarta.enterprise.context.SessionScoped;
 
 @SessionScoped
-@RegisterAiService
+@RegisterAiService()
 public interface Bot {
 
     @SystemMessage("""
